@@ -1,0 +1,8 @@
+# Ocultar arquivos sensíveis e desnecessários
+includes/conexao.php
+*.env
+vendor/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
