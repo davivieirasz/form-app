@@ -6,7 +6,7 @@ Sistema simples de **formulário** em PHP com conexão ao banco de dados MySQL.
 
 ## 🖥️ Demonstração
 
-![Exemplo de interface](assets/img/projeto.png)
+![Exemplo de interface](assets/img/Projeto.png)
 
 ---
 
