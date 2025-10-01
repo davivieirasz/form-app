@@ -4,6 +4,12 @@ Sistema simples de **formulário** em PHP com conexão ao banco de dados MySQL.
 
 ---
 
+## 🖥️ Demonstração
+
+![Exemplo de interface](assets/img/projeto.png)
+
+---
+
 ## 📂 Estrutura de pastas e arquivos
 
 ```
